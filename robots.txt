@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohxakaeyoh.gn-cha2.kr/sitemap.xml
